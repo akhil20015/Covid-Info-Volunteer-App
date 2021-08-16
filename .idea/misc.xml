@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Harshan/AndroidStudioProjects/Madproject/Madproject/app/src/main/res/drawable/button.xml" value="0.2703125" />
+        <entry key="..\:/Users/Harshan/AndroidStudioProjects/Madproject/Madproject/app/src/main/res/drawable/field.xml" value="0.2703125" />
+        <entry key="..\:/Users/Harshan/AndroidStudioProjects/Madproject/Madproject/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Harshan/AndroidStudioProjects/Madproject/Madproject/app/src/main/res/drawable/ic_baseline_wifi_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Harshan/AndroidStudioProjects/Madproject/Madproject/app/src/main/res/layout/activity_covidneg.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/Harshan/AndroidStudioProjects/Madproject/Madproject/app/src/main/res/layout/activity_covidpos.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Harshan/AndroidStudioProjects/Madproject/Madproject/app/src/main/res/layout/activity_covidstatus.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/Harshan/AndroidStudioProjects/Madproject/Madproject/app/src/main/res/layout/activity_help.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/Harshan/AndroidStudioProjects/Madproject/Madproject/app/src/main/res/layout/activity_main.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/Harshan/AndroidStudioProjects/Madproject/Madproject/app/src/main/res/layout/activity_profile.xml" value="0.4" />
+        <entry key="..\:/Users/Harshan/AndroidStudioProjects/Madproject/Madproject/app/src/main/res/layout/activity_vaccine.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/Harshan/AndroidStudioProjects/Madproject/Madproject/app/src/main/res/layout/activity_volunteer.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/drawable/button.xml" value="0.2203125" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/layout/activity_covidneg.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/layout/activity_covidpos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/layout/activity_covidstatus.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/layout/activity_forgotpassword.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/layout/activity_help.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/layout/activity_registeruser.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/layout/activity_vaccine.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/layout/activity_volunteer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/layout/items.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Madproject/Madproject/app/src/main/res/layout/vacc_list.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
