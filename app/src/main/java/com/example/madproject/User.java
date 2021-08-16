@@ -14,7 +14,7 @@ public class User {
         this.email=email;
         this.phoneno=phoneno;
         covid="";
-        volunteer="";
+        volunteer="NIL";
     }
 
 }

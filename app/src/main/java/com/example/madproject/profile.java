@@ -60,7 +60,7 @@ public class profile extends AppCompatActivity {
                     String email = userprofile.email;
                     String phone = userprofile.phoneno;
 
-                    greetingTextView.setText("welcome," +name+ "!");
+                    greetingTextView.setText("Hello , " +name+ "!");
                     nameTextView.setText(name);
                     emailTextView.setText(email);
                     phoneTextView.setText(phone);
